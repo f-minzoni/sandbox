@@ -1,2 +1,5 @@
 name: file1
 description: this is a file
+type: this is the file type
+size: this is the file size
+this is a longer text line, longer text line, longer text line
